@@ -7,8 +7,8 @@ control_expenses.py - приложение контроль расходов.
 и MySQL последней версии.
 
 Чтоб установить, скачайте и установите эти программы:
-Python3: https://www.python.org .
-MySQL: https://www.mysql.com .
+Python3 - https://www.python.org .
+MySQL - https://www.mysql.com .
 
 Запуск приложения:
 MySQl:
