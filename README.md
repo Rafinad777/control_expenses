@@ -20,7 +20,7 @@ MySQL - https://www.mysql.com .
    
    Для большинства операционных систем команда: 
    
-   $> pip install mysql-connector-python .
+   			pip install mysql-connector-python .
 
    Оригинальный документ: https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
 
