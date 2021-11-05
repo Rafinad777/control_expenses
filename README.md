@@ -19,7 +19,7 @@ MySQl:
    
    $> pip install mysql-connector-python .
 
-Оригинальный документ: https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
+   Оригинальный документ: https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
 
 3. Запустите файл control_expenses.py с помощюь python3.
 Вы увидите в консоли:
