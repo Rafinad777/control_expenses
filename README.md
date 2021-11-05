@@ -12,8 +12,9 @@ MySQL: https://www.mysql.com .
 MySQl:
 1. Зарегистрируйтесь в MySQL как root пользователь. (Запомните или запишите пароль)
 2. Вам нужно установить Connector/Python для соединения с MySQl
-Для большинства операционных систем команда: $> pip install mysql-connector-python .
-Смотрм: https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
+Для большинства операционных систем команда: 
+$> pip install mysql-connector-python .
+Оригинальный документ: https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
 3. Запустите файл control_expenses.py с помощюь python3.
 Вы увидите в консоли:
 
