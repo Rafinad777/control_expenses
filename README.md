@@ -12,7 +12,7 @@ MySQL: https://www.mysql.com .
 Запуск приложения:
 MySQl:
 1. Зарегистрируйтесь в MySQL как root пользователь. (Запомните или запишите пароль)
-2. Вам нужно установить Connector/Python для соединения с MySQl
+2. Вам нужно установить Connector/Python для соединения python с MySQl
 Для большинства операционных систем команда: 
 
 $> pip install mysql-connector-python .
