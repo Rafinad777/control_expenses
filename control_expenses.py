@@ -293,7 +293,7 @@ def user():
   		print("Непралильное имя или пароль пользовтеля или его не существует!")
 
 # main: приложение для контроля расходов
-def main():
+def control_expenses_mainprog():
 	choice = None
 	while choice != "0":
 		print(
@@ -319,6 +319,6 @@ def main():
 			create_use_database_table_access()
 
 # основная программа
-main()
-
+if __name__ == "__main__":
+	control_expenses_mainprog()
 
