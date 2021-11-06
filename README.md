@@ -1,4 +1,9 @@
 # control_expenses
+
+English version see below.
+
+Russian version:
+
 control_expenses.py - приложение контроль расходов.
 
 Инструменты которые использовались при написании приложения: Python 3.9.5, mysql  Ver 8.0.26 .
