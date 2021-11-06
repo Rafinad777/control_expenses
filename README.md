@@ -2,7 +2,7 @@
 
 English version see below.
 
-Russian version:
+RUSSIAN VERSION (РУССКАЯ ВЕРСИЯ):
 
 control_expenses.py - приложение контроль расходов.
 
@@ -176,7 +176,7 @@ MySQL - https://www.mysql.com .
 
 control_expenses
 
-English version:
+ENGLISH VERSION:
 
 control_expenses.py - Expense control application.
 
