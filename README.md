@@ -192,7 +192,7 @@ The user database (user_name) will be created with the same name as the username
 
 	For most operating systems, the command is:
 
-	pip install mysql-connector-python
+		pip install mysql-connector-python
 
 	Original document: https://dev.mysql.com/doc/connector-python/en/connector-python-installation-binary.html
 
